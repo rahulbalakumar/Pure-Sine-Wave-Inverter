@@ -1,0 +1,253 @@
+Removed Member From Class: ClassName=U_EGS002 Member=2HO & 2LO
+Removed Member From Class: ClassName=U_PowerConverters Member=2HO & 2LO
+Change Component Comment : Designator= Old Comment=Half Bridge New Comment=IR2110STRPBF
+Change Component Comment : Designator= Old Comment=Half Bridge New Comment=IR2110STRPBF
+Change Component Designator: OldDesignator= NewDesignator=C9
+Change Component Designator: OldDesignator= NewDesignator=C10
+Change Component Designator: OldDesignator= NewDesignator=C11
+Change Component Designator: OldDesignator= NewDesignator=C12
+Change Component Designator: OldDesignator= NewDesignator=C13
+Change Component Designator: OldDesignator= NewDesignator=C14
+Change Component Designator: OldDesignator= NewDesignator=C15
+Change Component Designator: OldDesignator= NewDesignator=C16
+Change Component Designator: OldDesignator= NewDesignator=C17
+Change Component Designator: OldDesignator= NewDesignator=C18
+Change Component Designator: OldDesignator= NewDesignator=C19
+Change Component Designator: OldDesignator= NewDesignator=C20
+Change Component Designator: OldDesignator= NewDesignator=C21
+Change Component Designator: OldDesignator= NewDesignator=C22
+Change Component Designator: OldDesignator= NewDesignator=C23
+Change Component Designator: OldDesignator= NewDesignator=C24
+Change Component Designator: OldDesignator= NewDesignator=C25
+Change Component Designator: OldDesignator= NewDesignator=C200
+Change Component Designator: OldDesignator= NewDesignator=C201
+Change Component Designator: OldDesignator= NewDesignator=C202
+Change Component Designator: OldDesignator= NewDesignator=C203
+Change Component Designator: OldDesignator= NewDesignator=C204
+Change Component Designator: OldDesignator= NewDesignator=C205
+Change Component Designator: OldDesignator= NewDesignator=C206
+Change Component Designator: OldDesignator= NewDesignator=C207
+Change Component Designator: OldDesignator= NewDesignator=C208
+Change Component Designator: OldDesignator= NewDesignator=C209
+Change Component Designator: OldDesignator= NewDesignator=C210
+Change Component Designator: OldDesignator= NewDesignator=C211
+Change Component Designator: OldDesignator= NewDesignator=C212
+Change Component Designator: OldDesignator= NewDesignator=C213
+Change Component Designator: OldDesignator= NewDesignator=C214
+Change Component Designator: OldDesignator= NewDesignator=C215
+Change Component Designator: OldDesignator= NewDesignator=C216
+Change Component Designator: OldDesignator= NewDesignator=C217
+Change Component Designator: OldDesignator= NewDesignator=C218
+Change Component Designator: OldDesignator= NewDesignator=C219
+Change Component Designator: OldDesignator= NewDesignator=C220
+Change Component Designator: OldDesignator= NewDesignator=C221
+Change Component Designator: OldDesignator= NewDesignator=C222
+Change Component Designator: OldDesignator= NewDesignator=C223
+Change Component Designator: OldDesignator= NewDesignator=D200
+Change Component Designator: OldDesignator= NewDesignator=D201
+Change Component Designator: OldDesignator= NewDesignator=D202
+Change Component Designator: OldDesignator= NewDesignator=J200
+Change Component Designator: OldDesignator= NewDesignator=J201
+Change Component Designator: OldDesignator= NewDesignator=J202
+Change Component Designator: OldDesignator= NewDesignator=J203
+Change Component Designator: OldDesignator= NewDesignator=J204
+Change Component Designator: OldDesignator= NewDesignator=J205
+Change Component Designator: OldDesignator= NewDesignator=J206
+Change Component Designator: OldDesignator= NewDesignator=J207
+Change Component Designator: OldDesignator= NewDesignator=J208
+Change Component Designator: OldDesignator= NewDesignator=J209
+Change Component Designator: OldDesignator= NewDesignator=J210
+Change Component Designator: OldDesignator= NewDesignator=J211
+Change Component Designator: OldDesignator= NewDesignator=J212
+Change Component Designator: OldDesignator= NewDesignator=J213
+Change Component Designator: OldDesignator= NewDesignator=L2
+Change Component Designator: OldDesignator= NewDesignator=L3
+Change Component Designator: OldDesignator= NewDesignator=Q200
+Change Component Designator: OldDesignator= NewDesignator=Q201
+Change Component Designator: OldDesignator= NewDesignator=Q202
+Change Component Designator: OldDesignator= NewDesignator=Q203
+Change Component Designator: OldDesignator= NewDesignator=Q204
+Change Component Designator: OldDesignator= NewDesignator=R7
+Change Component Designator: OldDesignator= NewDesignator=R8
+Change Component Designator: OldDesignator= NewDesignator=R9
+Change Component Designator: OldDesignator= NewDesignator=R10
+Change Component Designator: OldDesignator= NewDesignator=R11
+Change Component Designator: OldDesignator= NewDesignator=R12
+Change Component Designator: OldDesignator= NewDesignator=R13
+Change Component Designator: OldDesignator= NewDesignator=R14
+Change Component Designator: OldDesignator= NewDesignator=R15
+Change Component Designator: OldDesignator= NewDesignator=R200
+Change Component Designator: OldDesignator= NewDesignator=R201
+Change Component Designator: OldDesignator= NewDesignator=R202
+Change Component Designator: OldDesignator= NewDesignator=R203
+Change Component Designator: OldDesignator= NewDesignator=R204
+Change Component Designator: OldDesignator= NewDesignator=R205
+Change Component Designator: OldDesignator= NewDesignator=R206
+Change Component Designator: OldDesignator= NewDesignator=R207
+Change Component Designator: OldDesignator= NewDesignator=R208
+Change Component Designator: OldDesignator= NewDesignator=R209
+Change Component Designator: OldDesignator= NewDesignator=R210
+Change Component Designator: OldDesignator= NewDesignator=R211
+Change Component Designator: OldDesignator= NewDesignator=R212
+Change Component Designator: OldDesignator= NewDesignator=R213
+Change Component Designator: OldDesignator= NewDesignator=R214
+Change Component Designator: OldDesignator= NewDesignator=R215
+Change Component Designator: OldDesignator= NewDesignator=R216
+Change Component Designator: OldDesignator= NewDesignator=R217
+Change Component Designator: OldDesignator= NewDesignator=R218
+Change Component Designator: OldDesignator= NewDesignator=R219
+Change Component Designator: OldDesignator= NewDesignator=R220
+Change Component Designator: OldDesignator= NewDesignator=R221
+Change Component Designator: OldDesignator= NewDesignator=R222
+Change Component Designator: OldDesignator= NewDesignator=S200
+Change Component Designator: OldDesignator= NewDesignator=U3
+Change Component Designator: OldDesignator= NewDesignator=U4
+Change Component Designator: OldDesignator= NewDesignator=U200
+Change Component Designator: OldDesignator= NewDesignator=U201
+Change Component Designator: OldDesignator= NewDesignator=U202
+Change Component Designator: OldDesignator= NewDesignator=U203
+Change Component Designator: OldDesignator= NewDesignator=Y200
+Change Component Designator: OldDesignator=+5 REG NewDesignator=J4
+Change Component Designator: OldDesignator=+12 REG NewDesignator=J8
+Change Component Designator: OldDesignator=+12 UNREG NewDesignator=J6
+Change Component Designator: OldDesignator=1LO & 1HO NewDesignator=J3
+Change Component Designator: OldDesignator=2HO & 2LO NewDesignator=J5
+Change Component Designator: OldDesignator=DT0 NewDesignator=S203
+Change Component Designator: OldDesignator=DT1 NewDesignator=S202
+Change Component Designator: OldDesignator=FAN OUT NewDesignator=J7
+Change Component Designator: OldDesignator=FEEDBACK NewDesignator=J9
+Change Component Designator: OldDesignator=FREQ SEL NewDesignator=S204
+Change Component Designator: OldDesignator=GROUND NewDesignator=J10
+Change Component Designator: OldDesignator=LCD NewDesignator=S201
+Change Component Designator: OldDesignator=SST NewDesignator=S205
+Change Component Description : Designator=U203 Old Description= New Description=IR2110STRPBF
+Change Component Description : Designator=U202 Old Description= New Description=IR2110STRPBF
+Change Component Description : Designator=J201 Old Description=Connector New Description=C5277086
+Change Component Description : Designator=J213 Old Description=Connector New Description=C5277086
+Change Component Description : Designator=J212 Old Description=Connector New Description=C5277086
+Change Component Description : Designator=J210 Old Description=Connector New Description=C5277086
+Change Component Description : Designator=J209 Old Description=Connector New Description=C5277086
+Change Component Description : Designator=J211 Old Description=Connector New Description=C5277086
+Change Component Description : Designator=J206 Old Description=Connector New Description=C5277086
+Change Component Description : Designator=J205 Old Description=Connector New Description=C5277086
+Change Component Description : Designator=J204 Old Description=Connector New Description=C5277086
+Change Component Description : Designator=J203 Old Description=Connector New Description=C5277086
+Change Component Description : Designator=J202 Old Description=Connector New Description=C5277086
+Change Component Description : Designator=J207 Old Description=Connector New Description=C5277086
+Change Component Description : Designator=S203 Old Description=Switch New Description=SK12D07VG3
+Change Component Description : Designator=S202 Old Description=Switch New Description=SK12D07VG3
+Change Component Description : Designator=S204 Old Description=Switch New Description=SK12D07VG3
+Change Component Description : Designator=S201 Old Description=Switch New Description=SK12D07VG3
+Change Component Description : Designator=S205 Old Description=Switch New Description=SK12D07VG3
+Added Member To Class: ClassName=U_PowerConverters Member=Component C9 Capacitor 1nF +/-20% 50V 0402
+Added Member To Class: ClassName=U_PowerConverters Member=Component C10 Capacitor 100 nF +/-10% 50 V 0603
+Added Member To Class: ClassName=U_PowerConverters Member=Component C11 Capacitor 1 uF +/- 10% 25 V 0805
+Added Member To Class: ClassName=U_PowerConverters Member=Component C12 Capacitor 100 nF +/-10% 50 V 0603
+Added Member To Class: ClassName=U_PowerConverters Member=Component C13 Capacitor 4.7µF +/-40% 25V 0805
+Added Member To Class: ClassName=U_PowerConverters Member=Component C14 EKXJ251ELL560MK20S
+Added Member To Class: ClassName=U_PowerConverters Member=Component C15 Capacitor 22µF +/-40% 16V 0805
+Added Member To Class: ClassName=U_PowerConverters Member=Component C16 Capacitor 1µF +/-40% 50V 0603
+Added Member To Class: ClassName=U_PowerConverters Member=Component C17 35ZLH100MEFC6.3X11
+Added Member To Class: ClassName=U_PowerConverters Member=Component C18 Capacitor 22µF +/-40% 16V 0805
+Added Member To Class: ClassName=U_PowerConverters Member=Component C19 Capacitor 22µF +/-40% 16V 0805
+Added Member To Class: ClassName=U_PowerConverters Member=Component C20 Capacitor 1µF +/-40% 50V 0603
+Added Member To Class: ClassName=U_PowerConverters Member=Component C21 Capacitor 22µF +/-40% 16V 0805
+Added Member To Class: ClassName=U_PowerConverters Member=Component C22 Capacitor 100 nF +/-10% 50 V 0603
+Added Member To Class: ClassName=U_PowerConverters Member=Component C23 Capacitor 22µF +/-40% 16V 0805
+Added Member To Class: ClassName=U_PowerConverters Member=Component C24 Capacitor 100 nF +/-10% 50 V 0603
+Added Member To Class: ClassName=U_PowerConverters Member=Component C25 Capacitor 10 pF +/- 0.25 pF 50 V 0603
+Added Member To Class: ClassName=U_EGS002 Member=Component C200 Capacitor 10nF +/-20% 50V 0402
+Added Member To Class: ClassName=U_EGS002 Member=Component C201 Capacitor 1nF +/-20% 50V 0402
+Added Member To Class: ClassName=U_EGS002 Member=Component C202 Capacitor 1nF +/-20% 50V 0402
+Added Member To Class: ClassName=U_EGS002 Member=Component C203 Capacitor 100 nF +/-10% 50 V 0805
+Added Member To Class: ClassName=U_EGS002 Member=Component C204 Capacitor 10nF +/-20% 50V 0402
+Added Member To Class: ClassName=U_EGS002 Member=Component C205 Capacitor 10 uF +/- 10% 16 V 0805
+Added Member To Class: ClassName=U_EGS002 Member=Component C206 Capacitor 10 uF +/- 10% 16 V 1206
+Added Member To Class: ClassName=U_EGS002 Member=Component C207 Capacitor 100 nF +/-10% 50 V 0805
+Added Member To Class: ClassName=U_EGS002 Member=Component C208 Capacitor 10 uF +/- 10% 16 V 1206
+Added Member To Class: ClassName=U_EGS002 Member=Component C209 Capacitor 100 nF +/-10% 50 V 0805
+Added Member To Class: ClassName=U_EGS002 Member=Component C210 Capacitor 10 uF +/- 10% 16 V 1206
+Added Member To Class: ClassName=U_EGS002 Member=Component C211 Capacitor 100 nF +/-10% 50 V 0805
+Added Member To Class: ClassName=U_EGS002 Member=Component C212 Capacitor 10 uF +/- 10% 16 V 1206
+Added Member To Class: ClassName=U_EGS002 Member=Component C213 Capacitor 100 nF +/-10% 50 V 0805
+Added Member To Class: ClassName=U_EGS002 Member=Component C214 Capacitor 10 uF +/- 10% 16 V 1206
+Added Member To Class: ClassName=U_EGS002 Member=Component C215 Capacitor 1nF +/-20% 50V 0402
+Added Member To Class: ClassName=U_EGS002 Member=Component C216 Capacitor 10 uF +/- 10% 16 V 1206
+Added Member To Class: ClassName=U_EGS002 Member=Component C217 Capacitor 100 nF +/-10% 50 V 0805
+Added Member To Class: ClassName=U_EGS002 Member=Component C218 Capacitor 100 nF +/-10% 50 V 0805
+Added Member To Class: ClassName=U_EGS002 Member=Component C219 Capacitor 100 nF +/-10% 50 V 0805
+Added Member To Class: ClassName=U_EGS002 Member=Component C220 Capacitor 22pF +/-10% 50V 0402
+Added Member To Class: ClassName=U_EGS002 Member=Component C221 Capacitor 10 uF +/- 10% 16 V 1206
+Added Member To Class: ClassName=U_EGS002 Member=Component C222 Capacitor 100 nF +/-10% 50 V 0805
+Added Member To Class: ClassName=U_EGS002 Member=Component C223 Capacitor 22pF +/-10% 50V 0402
+Added Member To Class: ClassName=U_EGS002 Member=Component D200 L08R5000Q1
+Added Member To Class: ClassName=U_EGS002 Member=Component D201 UF4007
+Added Member To Class: ClassName=U_EGS002 Member=Component D202 UF4007
+Added Member To Class: ClassName=Controller_final Member=Component J3 691137810003
+Added Member To Class: ClassName=Controller_final Member=Component J4 691137810003
+Added Member To Class: ClassName=U_EGS002 Member=Component J200 TSW-108-08-G-S
+Added Member To Class: ClassName=U_EGS002 Member=Component J201 Comparator VCC
+Added Member To Class: ClassName=U_EGS002 Member=Component J202 Comparator Output 1
+Added Member To Class: ClassName=U_EGS002 Member=Component J203 Comparator Output 2
+Added Member To Class: ClassName=U_EGS002 Member=Component J204 INPUT 1
+Added Member To Class: ClassName=U_EGS002 Member=Component J205 FAN CONTROL
+Added Member To Class: ClassName=U_EGS002 Member=Component J206 INPUT 2
+Added Member To Class: ClassName=U_EGS002 Member=Component J207 SPWMOUT4
+Added Member To Class: ClassName=U_EGS002 Member=Component J208 SPWMOUT3
+Added Member To Class: ClassName=U_EGS002 Member=Component J209 SPWMOUT2
+Added Member To Class: ClassName=U_EGS002 Member=Component J210 OSCILLATOR
+Added Member To Class: ClassName=U_EGS002 Member=Component J211 SPWMOUT1
+Added Member To Class: ClassName=U_EGS002 Member=Component J212 Half Bridge VCC
+Added Member To Class: ClassName=U_EGS002 Member=Component J213 Half Bridge VCC
+Added Member To Class: ClassName=U_PowerConverters Member=Component L2 CDRH6D38T125NP-3R9NC
+Added Member To Class: ClassName=U_PowerConverters Member=Component L3 SLO0630H4R7MTT
+Added Member To Class: ClassName=U_EGS002 Member=Component Q200 SS8050-G
+Added Member To Class: ClassName=U_EGS002 Member=Component Q201 BC557BTF
+Added Member To Class: ClassName=U_EGS002 Member=Component Q202 BC557BTF
+Added Member To Class: ClassName=U_EGS002 Member=Component Q203 BC557BTF
+Added Member To Class: ClassName=U_EGS002 Member=Component Q204 BC557BTF
+Added Member To Class: ClassName=U_PowerConverters Member=Component R7 Resistor 100k +/-1% 1206 250 mW
+Added Member To Class: ClassName=U_PowerConverters Member=Component R8 Resistor 100k +/-1% 0603 100 mW
+Added Member To Class: ClassName=U_PowerConverters Member=Component R9 Resistor 100k +/-1% 0603 100 mW
+Added Member To Class: ClassName=U_PowerConverters Member=Component R10 Resistor 100k +/-1% 1206 250 mW
+Added Member To Class: ClassName=U_PowerConverters Member=Component R11 210 kOhms 0805
+Added Member To Class: ClassName=U_PowerConverters Member=Component R12 Resistor 10k +/-1% 0805 125 mW
+Added Member To Class: ClassName=U_PowerConverters Member=Component R13 Resistor 125mW 220kO 0805
+Added Member To Class: ClassName=U_PowerConverters Member=Component R14 Resistor 30k +/-1% 0805 125 mW
+Added Member To Class: ClassName=U_PowerConverters Member=Component R15 Resistor 30k +/-1% 0805 125 mW
+Added Member To Class: ClassName=U_EGS002 Member=Component R200 Resistor 1K +/-5% 0805 125 mW
+Added Member To Class: ClassName=U_EGS002 Member=Component R201 Resistor 100k +/-1% 0805 125 mW
+Added Member To Class: ClassName=U_EGS002 Member=Component R202 Resistor 10k +/-1% 0805 125 mW
+Added Member To Class: ClassName=U_EGS002 Member=Component R203 Resistor 100k +/-1% 0805 125 mW
+Added Member To Class: ClassName=U_EGS002 Member=Component R204 Resistor 10k +/-1% 0805 125 mW
+Added Member To Class: ClassName=U_EGS002 Member=Component R205 Resistor 1.5k +/-1% 0805 125 mW
+Added Member To Class: ClassName=U_EGS002 Member=Component R206 Resistor 10k +/-1% 0805 125 mW
+Added Member To Class: ClassName=U_EGS002 Member=Component R207 Resistor 1.5k +/-1% 0805 125 mW
+Added Member To Class: ClassName=U_EGS002 Member=Component R208 Resistor 100R +/-1 % 0402 63 mW
+Added Member To Class: ClassName=U_EGS002 Member=Component R209 Resistor 1.5k +/-1% 0805 125 mW
+Added Member To Class: ClassName=U_EGS002 Member=Component R210 Resistor 100R +/-1 % 0402 63 mW
+Added Member To Class: ClassName=U_EGS002 Member=Component R211 Resistor 10k +/-1% 0805 125 mW
+Added Member To Class: ClassName=U_EGS002 Member=Component R212 200K 1% 0805(2012)
+Added Member To Class: ClassName=U_EGS002 Member=Component R213 Resistor 10k +/-1% 0805 125 mW
+Added Member To Class: ClassName=U_EGS002 Member=Component R214 Resistor 5.1k +/-1% 0805 125 mW
+Added Member To Class: ClassName=U_EGS002 Member=Component R215 Resistor 5.1k +/-1% 0805 125 mW
+Added Member To Class: ClassName=U_EGS002 Member=Component R216 Resistor 5.1k +/-1% 0805 125 mW
+Added Member To Class: ClassName=U_EGS002 Member=Component R217 Resistor 5.1k +/-1% 0805 125 mW
+Added Member To Class: ClassName=U_EGS002 Member=Component R218 Resistor 1K +/-5% 0805 125 mW
+Added Member To Class: ClassName=U_EGS002 Member=Component R219 Resistor 5.1k +/-1% 0805 125 mW
+Added Member To Class: ClassName=U_EGS002 Member=Component R220 Resistor 5.1k +/-1% 0805 125 mW
+Added Member To Class: ClassName=U_EGS002 Member=Component R221 Resistor 5.1k +/-1% 0805 125 mW
+Added Member To Class: ClassName=U_EGS002 Member=Component R222 Resistor 5.1k +/-1% 0805 125 mW
+Added Member To Class: ClassName=U_EGS002 Member=Component S200 RK09L1140A2U
+Added Member To Class: ClassName=U_EGS002 Member=Component S201 SK12D07VG3NS
+Added Member To Class: ClassName=U_EGS002 Member=Component S202 SK12D07VG3NS
+Added Member To Class: ClassName=U_EGS002 Member=Component S203 SK12D07VG3NS
+Added Member To Class: ClassName=U_EGS002 Member=Component S204 SK12D07VG3NS
+Added Member To Class: ClassName=U_EGS002 Member=Component S205 SK12D07VG3NS
+Added Member To Class: ClassName=U_PowerConverters Member=Component U3 TPS55289RYQR
+Added Member To Class: ClassName=U_PowerConverters Member=Component U4 TPS564257DRLR
+Added Member To Class: ClassName=U_EGS002 Member=Component U200 LM393BIDR
+Added Member To Class: ClassName=U_EGS002 Member=Component U201 EG8010
+Added Member To Class: ClassName=U_EGS002 Member=Component U202 IR2110STRPBF
+Added Member To Class: ClassName=U_EGS002 Member=Component U203 IR2110STRPBF
+Added Member To Class: ClassName=U_EGS002 Member=Component Y200 ABLS2-12.000MHZ-D4Y-T

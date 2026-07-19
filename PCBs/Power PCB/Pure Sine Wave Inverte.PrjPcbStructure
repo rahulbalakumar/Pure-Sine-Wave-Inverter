@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=Overview.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Overview.SchDoc|Designator=U_24Vto320V|SchDesignator=U_24Vto320V|FileName=24Vto320V.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=24Vto320V.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Overview.SchDoc|Designator=U_powersupply|SchDesignator=U_powersupply|FileName=powersupply.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=powersupply.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
