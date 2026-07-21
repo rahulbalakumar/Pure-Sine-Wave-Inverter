@@ -1,10 +1,5 @@
 # 300W Pure Sine Wave Inverter - Final Project Repository
 
-<p align="center">
-  <img src="https://img.shields.io/badge/University-University%20of%20Moratuwa-maroon?style=for-the-badge" alt="University of Moratuwa">
-  <img src="https://img.shields.io/badge/Department-Electronic%20%26%26%20Telecommunication-blue?style=for-the-badge" alt="Department of Electronic and Telecommunication Engineering">
-  <img src="https://img.shields.io/badge/Course-EN2160%20-%20Electronic%20Design%20Realization-orange?style=for-the-badge">
-</p>
 
 ## 📋 Table of Contents
 1. [Project Overview](#project-overview)
